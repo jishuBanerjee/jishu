@@ -1,0 +1,27 @@
+body{
+  background-color: yellow;
+}
+.navbar {
+  background-color: blue;
+}
+ img{
+ width:200px; 
+ height: 150px;
+margin-left: 20em;
+}
+.navbar-brand {
+  margin-left: 1em;
+}
+.navbar-toggler{
+  margin-right: 1em;
+}
+h1{
+  margin-left: 0.5em;
+}
+p{
+  margin-left: 0.5em;
+}
+button{
+  margin-left: 2em;
+}
+
